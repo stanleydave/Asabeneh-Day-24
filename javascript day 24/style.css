@@ -1,0 +1,49 @@
+body {
+    background-image: url("img/galaxy.gif");
+    text-align: center;
+    color: white;
+  }
+  h1 {
+    text-shadow: 1px 2px rgb(54, 54, 168);
+    font-size: 2.5rem;
+  }
+  input {
+    background-color: white;
+    padding: 0.5rem;
+    width: 15rem;
+    outline: none;
+    border: none;
+    margin-right: 0.2rem;
+    border-radius: 3px;
+  }
+  select {
+    color: rgb(160, 150, 150);
+  }
+  placeholder {
+    color: rgb(250, 250, 250);
+  }
+  select {
+    background-color: white;
+    padding: 0.4rem;
+    outline: none;
+    border: none;
+    border-radius: 3px;
+  }
+  button {
+    padding: 0.5rem;
+    background-color: #7d7d7c;
+    color: white;
+    border-radius: 5px;
+  }
+  .planet {
+    width: 30%;
+    height: auto;
+  }
+  .flex {
+    background-color: rgba(81, 81, 80, 0.5);
+    width: 70%;
+    height: auto;
+    margin: 1rem auto;
+    border-radius: 3px;
+    padding: 2rem;
+  }
